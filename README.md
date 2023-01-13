@@ -37,3 +37,7 @@
 33. https://www.mepsfpx.com.my/FPXMain/tab.jsp
 34. https://www.mepsfpx.com.my/FPXMain/thanks.jsp
 35. https://www.mepsfpx.com.my/FPXMain/t_and_c_link.jsp
+36. https://www.mepsfpx.com.my/FPXMain/faq.jsp
+37. https://www.paynet.my/fpx/banks-tpa.html
+38. https://jayanttripathy.com/asp-net-core-web-api-with-mongodb-crud/
+
