@@ -5,6 +5,7 @@
 1. [Paynet](https://www.paynet.my)
 2. [DuitNow](https://www.duitnow.my/index.html)
 3. [JomPAY](https://www.jompay.com.my)
+4. [FPX User Guide](https://www.paynet.my/fpx/FPX_User-Guide-For-Customers.pdf)
 
 
 #### Reference
