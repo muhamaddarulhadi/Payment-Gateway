@@ -1,5 +1,12 @@
 # Payment-Gateway
 
+#### Paynet
+
+1. [Paynet](https://www.paynet.my)
+2. [DuitNow](https://www.duitnow.my/index.html)
+3. [JomPAY](https://www.jompay.com.my)
+
+
 #### Reference
 
 1. https://paynet.my/fpx/FPX_User-Guide-For-Customers.pdf
@@ -43,4 +50,5 @@
 39. [RazorPay Payment Gateway Integration in .NET MVC Core](https://www.youtube.com/watch?v=w3Eabl3CfDU&t=0s)
 40. https://github.com/kyncostyle/mepsfpx
 41. https://paynet.my/business-fpx/merchant-registration/FPX_Merchant-Interfacing-Basic-Guide.pdf
+42. https://www.mepsfpx.com.my/FPXMain/Html/faq.html
 
