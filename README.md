@@ -11,6 +11,7 @@
 7. [Developer Paynet](https://developer.paynet.my/)
 8. [Devs Developer Paynet](https://devs.developer.paynet.my/)
 9. [FPX Docs Overview](https://docs.developer.paynet.my/docs/fpx/b2coverview)
+10. [FPX steps to become merchant](https://paynet.my/business-fpx/become-a-merchant.html)
 
 
 #### Reference
