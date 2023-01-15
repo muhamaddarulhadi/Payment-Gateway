@@ -7,6 +7,10 @@
 3. [JomPAY](https://www.jompay.com.my)
 4. [FPX User Guide](https://www.paynet.my/fpx/FPX_User-Guide-For-Customers.pdf)
 5. [mepsfpx](https://www.mepsfpx.com.my)
+6. [Paynet Docs](https://docs.developer.paynet.my/)
+7. [Developer Paynet](https://developer.paynet.my/)
+8. [Devs Developer Paynet](https://devs.developer.paynet.my/)
+9. [FPX Docs Overview](https://docs.developer.paynet.my/docs/fpx/b2coverview)
 
 
 #### Reference
